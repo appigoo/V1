@@ -1,0 +1,5 @@
+streamlit
+yfinance>=0.2.18
+pandas
+numpy
+plotly
